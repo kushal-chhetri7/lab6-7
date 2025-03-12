@@ -1,6 +1,6 @@
  Project Overview
 This project is a hands-on introduction to the Laravel PHP framework. It includes setting up a new Laravel project, exploring its file structure, creating routes and controllers, and developing dynamic views using Blade templating. The goal is to gain practical experience with Laravel’s core features, preparing for more advanced web development projects.
-
+ 
 Learning Objectives
 By the end of this lab, you will be able to:
 
