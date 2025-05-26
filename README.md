@@ -15,7 +15,7 @@ Develop Dynamic Views: Create and modify Blade templates to display dynamic cont
 Utilize Artisan CLI: Employ Laravel’s command-line interface for routine tasks, such as generating controllers and migrations.
 
 Apply Best Practices: Follow Laravel conventions to ensure maintainable and scalable code.
-
+ 
 Project Setup
 Prerequisites
 PHP (version 7.4 or higher)
